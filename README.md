@@ -21,11 +21,11 @@ Follow me [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-s
 #About me
 
 Gosto muito de tecnologia, de superar os desafios, sou muito seria e responsavel quando se trata de trabalho, me dedico a fazer até que esteja tudo entregue com boa qualidade.
-Não tenho muito conhecimento mas estou estudando para conseguir acompanhar os mestres que tem por ai no mercado, tenho muita sorte de ter muitos colegas de trabalho que viram amigos que me apoiam e que sempre que posso também apoio. 
+Não tenho muito conhecimento mas estou estudando para conseguir acompanhar os mestres que tem por ai no mercado.
 
 ![Alt Text](https://media.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif)
 
-Apesar do meu lado serio na hora de trabalhar, também tenho um lado brincalhona que só os colegas mais proximos veem, gosto de ajudar as pessoas, sou otima ouvinte que muitos se sentem a vontade de se expressar, atualmente sinto falta do calor humano devido a pandemia que está ocorrendo, porém nada que a tecnologia não possa ajudar é por isso que amo unir a tecnologia com as pessoas.
+Apesar do meu lado serio, na hora de trabalhar, também tenho um lado brincalhona que só os colegas mais proximos veem, gosto de ajudar as pessoas, sou otima ouvinte que muitos se sentem a vontade de se expressar, atualmente sinto falta do calor humano devido a pandemia que está ocorrendo, porém nada que a tecnologia não possa ajudar,por isso que amo unir a tecnologia com as pessoas.
 
 
 ![Alt Text](https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif)
