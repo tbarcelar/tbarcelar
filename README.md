@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou a Tatiana Ta!
+# 👋 Olá, eu sou a Tatiana Barcelar!
 
 🎓 **Formada em Gestão da Tecnologia da Informação** | 📊 **MBA em Big Data**  
-💼 **Especialista em Cloud, Monitoramento e Automação**
+💼 **Analista em Cloud, Monitoramento e Obeservabilidade **
 
 ---
 
@@ -13,15 +13,15 @@ Sou uma profissional formada em **Gestão da Tecnologia da Informação** com um
 
 ## 🎯 Certificações
 
-- **AWS Solutions Architect Associate**
-- **AWS Cloud Practitioner**
-- **DP-900**
-- **AZ-900**
-- **SC-900**
-- **AZ-305**
-- **Dynatrace Foundation**
-- **New Relic Practitioner**
-- **Scrum Fundamentals**
+- 🏅 **AWS Solutions Architect Associate**
+- 🏅 **AWS Cloud Practitioner**
+- 🏅 **DP-900** (Azure Data Fundamentals)
+- 🏅 **AZ-900** (Azure Fundamentals)
+- 🏅 **SC-900** (Microsoft Security)
+- 🏅 **AZ-305** (Azure Solutions Architect Expert)
+- 🏅 **Dynatrace Foundation**
+- 🏅 **New Relic Practitioner**
+- 🏅 **Scrum Fundamentals**
 
 ---
 
@@ -29,10 +29,10 @@ Sou uma profissional formada em **Gestão da Tecnologia da Informação** com um
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu já trabalhei:
 
-- **Cloud & Monitoramento:** AWS, Dynatrace, Datadog, Grafana, New Relic, Nagios, Zabbix
-- **Plataformas:** Salesforce, ServiceNow, Remedy, Plusoft, Smartcenter
-- **Linguagens & Scripts:** Python, Terraform, Shell Scripting, Jenkins
-- **Visualização & BI:** Power BI, Análise de Dados com Python e Machine Learning
+- ☁️ **Cloud & Monitoramento:** AWS, Dynatrace, Datadog, Grafana, New Relic, Nagios, Zabbix
+- 💻 **Plataformas:** Salesforce, ServiceNow, Remedy, Plusoft, Smartcenter
+- 🐍 **Linguagens & Scripts:** Python, Terraform, Shell Scripting, Jenkins
+- 📊 **Visualização & BI:** Power BI, Análise de Dados com Python e Machine Learning
 
 ---
 
@@ -40,11 +40,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu já trabalhei:
 
 Durante a minha carreira, atuei em diversas funções, como:
 
-- **Consultoria de IoT para serviços M2M**
-- **Monitoramento de infraestrutura e serviços em ambientes on-premises e cloud**
-- **Gestão de incidentes e treinamentos para novos funcionários**
-- **Suporte técnico e atendimento ao cliente**
-- **Implementação de processos de melhorias e suporte em espanhol**
+- 💡 **Consultoria de IoT para serviços M2M**
+- 🔧 **Monitoramento de infraestrutura e serviços em ambientes on-premises e cloud**
+- 📈 **Gestão de incidentes e treinamentos para novos funcionários**
+- 🎧 **Suporte técnico e atendimento ao cliente**
+- 🛠️ **Implementação de processos de melhorias e suporte em espanhol**
 
 ---
 
@@ -52,17 +52,17 @@ Durante a minha carreira, atuei em diversas funções, como:
 
 Sempre buscando me manter atualizada, completei cursos certificados como:
 
-- **SRE** - Site Reliability Engineering
-- **Power BI para Cientista de Dados**
-- **Machine Learning na AWS para Negócios**
-- **Análise de Dados com Python e Machine Learning**
+- 📘 **SRE** - Site Reliability Engineering
+- 📘 **Power BI para Cientista de Dados**
+- 📘 **Machine Learning na AWS para Negócios**
+- 📘 **Análise de Dados com Python e Machine Learning**
 
 ---
 
 ## 📫 Entre em Contato
 
-- **LinkedIn:** [linkedin.com/in/tatiana-ta](https://www.linkedin.com/in/tatiana-ta)  
-- **E-mail:** [seuemail@example.com](mailto:seuemail@example.com)
+- **LinkedIn:** [linkedin.com/in/tatiana-barcelar](https://www.linkedin.com/in/tatiana-barcelar)  
+- **E-mail:** [nixb@tuta.io](nixb@tuta.io)
 
 ---
 
