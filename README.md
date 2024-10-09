@@ -1,33 +1,33 @@
 # 👋 Olá, eu sou a Tatiana Barcelar!
 
-🎓 **Formada em Gestão da Tecnologia da Informação** | 📊 **MBA em Big Data**  
-💼 **Analista em Cloud, Monitoramento e Obeservabilidade **
+🎓 **Analista de Dados | SRE | Observabilidade e Monitoramento**  
+☁️ **AWS | Azure | Dynatrace | Datadog**
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou uma profissional formada em **Gestão da Tecnologia da Informação** com um MBA em **Big Data**, apaixonada por inovação tecnológica e com vasta experiência no ecossistema de **Cloud Computing**, **Monitoramento** e **Automação**. Ao longo da minha carreira, busquei constantemente o aprimoramento de minhas habilidades por meio de certificações e projetos desafiadores.
+Sou formada em **Gestão da Tecnologia da Informação** e tenho um **MBA em Big Data**. Ao longo da minha carreira, obtive certificações como **AWS Solutions Architect Associate**, **DP-900**, **AZ-900**, **SC-900**, entre outras. Tenho experiência prática em **Observabilidade e Monitoramento**, utilizando ferramentas como **Dynatrace**, **Datadog**, **New Relic**, e **Zabbix**. Também atuei em **consultoria IoT**, **gestão de incidentes**, e **treinamento de equipes**.
+
+Estou sempre em busca de novos desafios nas áreas de **Análise de Dados**, **SRE** e **Melhoria Contínua**.
 
 ---
 
 ## 🎯 Certificações
 
-- 🏅 **AWS Solutions Architect Associate**
-- 🏅 **AWS Cloud Practitioner**
-- 🏅 **DP-900** (Azure Data Fundamentals)
-- 🏅 **AZ-900** (Azure Fundamentals)
-- 🏅 **SC-900** (Microsoft Security)
-- 🏅 **AZ-305** (Azure Solutions Architect Expert)
-- 🏅 **Dynatrace Foundation**
-- 🏅 **New Relic Practitioner**
-- 🏅 **Scrum Fundamentals**
+- 🟧 **AWS Solutions Architect Associate**
+- 🟧 **AWS Cloud Practitioner**
+- 🔷 **DP-900** (Azure Data Fundamentals)
+- 🔷 **AZ-900** (Azure Fundamentals)
+- 🔷 **SC-900** (Microsoft Security)
+- 🔷 **AZ-305** (Azure Solutions Architect Expert)
+- 🟢 **Dynatrace Foundation**
+- 🟢 **New Relic Practitioner**
+- 🟠 **Scrum Fundamentals**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias e ferramentas com as quais eu já trabalhei:
 
 - ☁️ **Cloud & Monitoramento:** AWS, Dynatrace, Datadog, Grafana, New Relic, Nagios, Zabbix
 - 💻 **Plataformas:** Salesforce, ServiceNow, Remedy, Plusoft, Smartcenter
@@ -38,34 +38,22 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu já trabalhei:
 
 ## 🌟 Experiência Profissional
 
-Durante a minha carreira, atuei em diversas funções, como:
-
-- 💡 **Consultoria de IoT para serviços M2M**
-- 🔧 **Monitoramento de infraestrutura e serviços em ambientes on-premises e cloud**
-- 📈 **Gestão de incidentes e treinamentos para novos funcionários**
-- 🎧 **Suporte técnico e atendimento ao cliente**
-- 🛠️ **Implementação de processos de melhorias e suporte em espanhol**
-
----
-
-## 📚 Educação e Formação Contínua
-
-Sempre buscando me manter atualizada, completei cursos certificados como:
-
-- 📘 **SRE** - Site Reliability Engineering
-- 📘 **Power BI para Cientista de Dados**
-- 📘 **Machine Learning na AWS para Negócios**
-- 📘 **Análise de Dados com Python e Machine Learning**
+- **Consultoria de IoT para serviços M2M**
+- **Monitoramento de infraestrutura on-premises e cloud**
+- **Gestão de incidentes com foco em SRE**
+- **Treinamento de novos funcionários e reciclagem**
+- **Implementação de automações e processos de melhorias**
+- **Suporte técnico e atendimento ao cliente em espanhol**
 
 ---
 
 ## 📫 Entre em Contato
 
 - **LinkedIn:** [linkedin.com/in/tatiana-barcelar](https://www.linkedin.com/in/tatiana-barcelar)  
-- **E-mail:** [nixb@tuta.io](nixb@tuta.io)
+- **E-mail:** [nixb@tuta.io](mailto:nixb@tuta.io)
 
 ---
 
 ### ⚡ Vamos colaborar!
 
-Estou sempre aberta a novos desafios, oportunidades e colaborações! Se você tiver um projeto interessante ou uma ideia inovadora, ficarei feliz em discutir mais e colaborar! 😊
+Sempre aberta a novos desafios e oportunidades em **Análise de Dados**, **SRE**, e **Monitoramento de Sistemas**. Vamos colaborar! 😊
