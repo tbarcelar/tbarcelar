@@ -1,59 +1,117 @@
-# 👋 Olá, eu sou a Tatiana Barcelar!
+<div align="center">
 
-🎓 **Analista de Dados | SRE | Observabilidade e Monitoramento**  
-☁️ **AWS | Azure | Dynatrace | Datadog**
+# Tatiana Barcelar
 
----
+### Platform Engineer | Observability Specialist | SRE
 
-## 🚀 Sobre mim
+**Transformando dados em decisões e sistemas em plataformas resilientes**
 
-Sou formada em **Gestão da Tecnologia da Informação** e tenho um **MBA em Big Data**. Ao longo da minha carreira, obtive certificações como **AWS Solutions Architect Associate**, **DP-900**, **AZ-900**, **SC-900**, entre outras. Tenho experiência prática em **Observabilidade e Monitoramento**, utilizando ferramentas como **Dynatrace**, **Datadog**, **New Relic**, e **Zabbix**. Também atuei em **consultoria IoT**, **gestão de incidentes**, e **treinamento de equipes**.
-
-Estou sempre em busca de novos desafios nas áreas de **Análise de Dados**, **SRE** e **Melhoria Contínua**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-barcelar)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nyxbarcelar@proton.me)
 
 ---
 
-## 🎯 Certificações
+`Observability as Code` · `Dynatrace` · `Datadog` · `Multi-Cloud` · `Python` · `FinOps`
 
-- 🟧 **AWS Solutions Architect Associate**
-- 🟧 **AWS Cloud Practitioner**
-- 🔷 **DP-900** (Azure Data Fundamentals)
-- 🔷 **AZ-900** (Azure Fundamentals)
-- 🔷 **SC-900** (Microsoft Security)
-- 🔷 **AZ-305** (Azure Solutions Architect Expert)
-- 🟢 **Dynatrace Foundation**
-- 🟢 **New Relic Practitioner**
-- 🟠 **Scrum Fundamentals**
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 👩‍💻 Sobre Mim
 
-- ☁️ **Cloud & Monitoramento:** AWS, Dynatrace, Datadog, Grafana, New Relic, Nagios, Zabbix
-- 💻 **Plataformas:** Salesforce, ServiceNow, Remedy, Plusoft, Smartcenter
-- 🐍 **Linguagens & Scripts:** Python, Terraform, Shell Scripting, Jenkins
-- 📊 **Visualização & BI:** Power BI, Análise de Dados com Python e Machine Learning
+Platform Engineer com +5 anos construindo **plataformas de observabilidade** em ambientes críticos de **healthcare** e **fintech**. Especialista em **Dynatrace** e **Datadog**, com foco em **Observability as Code**, automação com **Python** e cultura **SRE**.
 
----
-
-## 🌟 Experiência Profissional
-
-- **Consultoria de IoT para serviços M2M**
-- **Monitoramento de infraestrutura on-premises e cloud**
-- **Gestão de incidentes com foco em SRE**
-- **Treinamento de novos funcionários e reciclagem**
-- **Implementação de automações e processos de melhorias**
-- **Suporte técnico e atendimento ao cliente em espanhol**
+```
+🎓 Gestão de TI | MBA em Big Data
+📍 São Paulo, Brasil
+🌎 PT-BR (Nativo) | ES (Avanzado) | EN (Intermediate)
+```
 
 ---
 
-## 📫 Entre em Contato
+## 🔭 O Que Eu Faço
 
-- **LinkedIn:** [linkedin.com/in/tatiana-barcelar](https://www.linkedin.com/in/tatiana-barcelar)  
-- **E-mail:** [nixb@tuta.io](mailto:nixb@tuta.io)
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  🔍 OBSERVABILITY              ║  🔧 PLATFORM ENGINEERING                ║
+║  ────────────────────          ║  ──────────────────────────             ║
+║  • Observability as Code       ║  • Automação com Python + APIs          ║
+║  • Dynatrace Monaco & DQL      ║  • Workflows event-driven               ║
+║  • APM, Traces, Logs, Métricas ║  • IaC com Terraform                    ║
+║  • Alerting & SLO/SLI          ║  • CI/CD + Observability                ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  ☁️ MULTI-CLOUD                ║  📊 DATA & FINOPS                       ║
+║  ────────────────              ║  ───────────────────                    ║
+║  • AWS, Azure, GCP, OCI        ║  • Dashboards de custo                  ║
+║  • Kubernetes & Rancher        ║  • Power BI & Analytics                 ║
+║  • Incident Management         ║  • Otimização de recursos               ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### ⚡ Vamos colaborar!
+## 🛠️ Tech Stack
 
-Sempre aberta a novos desafios e oportunidades em **Análise de Dados**, **SRE**, e **Monitoramento de Sistemas**. Vamos colaborar! 😊
+<div align="center">
+
+### Observability
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Automation & DevOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Data & ITSM
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Certificações
+
+<div align="center">
+
+| Cloud | Observability | Metodologias |
+|:-----:|:-------------:|:------------:|
+| ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws) | ![Dynatrace](https://img.shields.io/badge/Dynatrace-Foundation_+_Sales-1496FF?style=flat-square&logo=dynatrace) | ![FinOps](https://img.shields.io/badge/FinOps-Certified-00ADD8?style=flat-square) |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws) | ![Datadog](https://img.shields.io/badge/Datadog-4x_Certified-632CA6?style=flat-square&logo=datadog) | ![SRE](https://img.shields.io/badge/SRE-Certified-326CE5?style=flat-square) |
+| ![Azure](https://img.shields.io/badge/Azure-AZ--305_Expert-0078D4?style=flat-square&logo=microsoftazure) | ![New Relic](https://img.shields.io/badge/New_Relic-Practitioner-008C99?style=flat-square) | ![Scrum](https://img.shields.io/badge/Scrum-Fundamentals-009FDA?style=flat-square) |
+| ![Azure](https://img.shields.io/badge/Azure-AZ/DP/SC--900-0078D4?style=flat-square&logo=microsoftazure) | | |
+| ![OCI](https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=flat-square&logo=oracle) | | |
+
+</div>
+
+---
+
+## 📂 Repositórios
+
+> 🚧 *Em breve: *
+
+---
+
+<div align="center">
+
+### 📬 Bora Trocar Uma Ideia?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-barcelar)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nyxbarcelar@proton.me)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario-github&color=blueviolet&style=flat-square&label=Visitantes)
+
+</div>
