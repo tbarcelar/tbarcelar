@@ -1,6 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1496FF,100:6F2DA8&height=180&section=header&text=Tatiana%20Barcelar&fontSize=36&fontColor=fff&fontAlignY=35&desc=Platform%20Engineer%20%7C%20Observability%20Specialist&descSize=14&descAlignY=55" width="100%">
 
-# Tatiana Barcelar
+
 
 ### Platform Engineer | Observability Specialist | SRE
 
@@ -109,9 +110,10 @@ Platform Engineer com +5 anos construindo **plataformas de observabilidade** em 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-barcelar)
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nyxbarcelar@proton.me)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario-github&color=blueviolet&style=flat-square&label=Visitantes)
-
+<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1496FF,100:6F2DA8&height=100&section=footer" width="100%">
 </div>
+</div>
+
+
